@@ -45,7 +45,7 @@
         <junit.version>4.11</junit.version>
 
         <commons.fileupload.version>1.3.3</commons.fileupload.version>
-        <commons.io.version>2.4</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
 
         <xh-commons.version>1.0.0</xh-commons.version>
 
